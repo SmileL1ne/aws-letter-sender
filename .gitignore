@@ -2,3 +2,7 @@
 *.sh
 *.csv
 *.log
+main.go
+templates/*
+!templates/example.html
+!templates/example.txt
